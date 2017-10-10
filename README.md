@@ -1,2 +1,2 @@
 # Hacktoberfest
-1st PR
+GCT - 1
